@@ -87,19 +87,19 @@ body{
 
 /* ---RWD--- */
 @media screen and(max-width: 390px) {
-    .body {
+    body {
         background-color: orange;
     }
 }
 
 @media screen and(max-width: 480px) {
-    .body {
+    body {
         background-color: palevioletred;
     }
 }
 
 @media screen and(max-width: 768px) {
-    .body {
+    body {
         background-color: fuchsia;
     }
 }

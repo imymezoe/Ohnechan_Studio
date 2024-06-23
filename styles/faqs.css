@@ -37,7 +37,7 @@
 
 /* 右邊內容 */
 .wrapper-right {
-    background-image: url('../Images/background/leaf.png');
+    background-color: #FFFFF0;
     background-repeat: round;
     float: right;
     width: 80%;
